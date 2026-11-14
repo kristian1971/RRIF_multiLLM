@@ -1,0 +1,6 @@
+condition,correct,wrong_existing,fabricated,abstention,invalid_no_code,invalid_empty,any_invalid_mention
+no_rag,0.19,53.52,33.63,0.66,12.0,0.0,34.18
+rag_a,94.2,5.05,0.01,0.39,0.34,0.0,0.01
+rag_b_nomic,28.72,46.89,0.27,17.69,6.42,0.0,0.3
+rag_b_qwen3s,72.06,23.84,0.15,1.16,2.8,0.0,0.19
+rag_b_qwen3m,71.64,24.02,0.15,0.76,3.43,0.0,0.16

@@ -1,0 +1,14 @@
+# predmemorije ugrađivanja — izvedenice
+*_cache.json
+embedding_cache.json
+
+# puna vektorska baza — izvedenica; objavljuje se samo Corpus A
+chroma_db/
+
+# izvorna RRiF publikacija i parsirani Corpus B — komercijalna publikacija
+RRIF-RP*.pdf
+corpus_b_rrif_documents.json
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/

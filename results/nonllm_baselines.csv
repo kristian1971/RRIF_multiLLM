@@ -1,0 +1,7 @@
+baseline,accuracy,exact_only,top1,top1_parent,any_of_5,n,condition
+String match (Corpus A),98.49,98.49,,,,,
+String match (Corpus B),67.17,0.0,,,,,
+,,,92.64,92.64,97.36,530.0,rag_a
+,,,8.3,25.66,43.21,530.0,rag_b_nomic
+,,,49.81,75.47,91.7,530.0,rag_b_qwen3s
+,,,45.47,76.42,92.26,530.0,rag_b_qwen3m

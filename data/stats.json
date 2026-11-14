@@ -1,0 +1,19 @@
+{
+  "dataset": {
+    "total": 1060,
+    "lookup": 530,
+    "describe": 530,
+    "unique_accounts": 522
+  },
+  "corpus_b": {
+    "total_docs": 2462,
+    "by_level": {
+      "subanaliticki": 300,
+      "razred": 11,
+      "skupina": 81,
+      "sinteticki": 534,
+      "analiticki": 1547
+    },
+    "zupan_coverage_pct": 99.62
+  }
+}

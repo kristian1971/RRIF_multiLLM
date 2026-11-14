@@ -1,0 +1,8 @@
+type,account,original question / sent to embedding model,text used in string-matching baseline
+lookup,000,What is the account code for Receivables for recoded but not paid in capital in joint-stock company (analytics by Potraživanja za upisani a neuplaćeni dionički kapital (analitika po upisnicima)?,Receivables for recoded but not paid in capital in joint-stock company (analytics by Potraživanja za upisani a neuplaćeni dionički kapital (analitika po upisnicima)
+lookup,001,What is the account code for Receivables for repeated share issues for recoded but not paid capital (analytics Potraživanja iz ponovljene emisije dionica za upisane a neuplaćene svote?,Receivables for repeated share issues for recoded but not paid capital (analytics Potraživanja iz ponovljene emisije dionica za upisane a neuplaćene svote
+lookup,002,What is the account code for Receivables for recoded but not paid in capital in private limited company Potraživanja za upisani a neuplaćeni kapital u d.o.o. (analitika po članovima?,Receivables for recoded but not paid in capital in private limited company Potraživanja za upisani a neuplaćeni kapital u d.o.o. (analitika po članovima
+lookup,010,What is the account code for Research and development Izdatci za razvoj?,Research and development Izdatci za razvoj
+lookup,012,What is the account code for Software and other rights Softver i ostala prava?,Software and other rights Softver i ostala prava
+describe,000,What is the account description and purpose for 000?,(n/a — describe question)
+describe,001,What is the account description and purpose for 001?,(n/a — describe question)
